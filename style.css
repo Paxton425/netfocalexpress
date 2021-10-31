@@ -1,0 +1,5 @@
+body, html {height: 100%}
+ body {
+   background-image: url("src/img/style,blue-globe.png");
+   background-color: #000000;
+ }
